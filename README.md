@@ -4,7 +4,7 @@ This is the simulation for a novel methodology for controlling Quadrotor Unmanne
 For the Extended Kalman filter, the linearization of the Quadrotor UAVs is calculated based on the previous working point. The details of the system's matrix are in the path: HSMC_Kalman Fillter/matrixAB/linearized.m
 
 The simulation is tested under three scenarios as listed as follows:
-![image](https://github.com/aralab-unr/HSMC-EKF-for-Quadrotor-UAVs/assets/43550092/513601bb-a869-473f-b0f9-bae003aa2a52)
+![image](https://github.com/aralab-unr/HSMC-EKF-for-Quadrotor-UAVs/assets/43550092/714849b4-0e66-470e-8a8f-1bafee71960c)
 
 Three types of Hierarchical sliding mode control: Aggregated HSMC (AHSMC), Incremental HSMC (IHSMC), and Combining HSMC (CHSMC) are investigated. A comparison is also provided.
 
