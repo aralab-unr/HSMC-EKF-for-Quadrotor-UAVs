@@ -10,6 +10,6 @@ Three types of Hierarchical sliding mode control: Aggregated HSMC (AHSMC), Incre
 
 The results of scenario 1 are in the path: HSMC_Kalman Fillter/setpoint
 
-The results of scenario 2 are in the path: HSMC_Kalman Fillter/square
+The results of scenario 2 are in the path: HSMC_Kalman Fillter/trajectory
 
-The results of scenario 3 are in the path: HSMC_Kalman Fillter/trajectory
+The results of scenario 3 are in the path: HSMC_Kalman Fillter/square
